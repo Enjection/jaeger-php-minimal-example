@@ -1,0 +1,7 @@
+{
+    "name": "jrd/jaeger-php",
+    "type": "project",
+    "require": {
+        "jonahgeorge/jaeger-client-php": "^1.0"
+    }
+}
